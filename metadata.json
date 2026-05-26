@@ -1,0 +1,6 @@
+{
+  "name": "WeatherFlow",
+  "description": "Real-time offline weather forecasting application with hyper-local coordinates, severe weather push alerts, customizable themes, and homescreen widget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
